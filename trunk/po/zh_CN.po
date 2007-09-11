@@ -1,0 +1,33 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: nautilus-setup-background 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-06-05 14:02+0800\n"
+"PO-Revision-Date: 2007-06-05 13:39+0800\n"
+"Last-Translator: yetist <yetist@gmail.com>\n"
+"Language-Team: zh-cn <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: ../src/nautilus-setup-background.c:75
+msgid "Set As _Wallpaper"
+msgstr "设定为壁纸(_W)"
+
+#: ../src/nautilus-setup-background.c:76
+msgid "Setup the image as wallpaper"
+msgstr "设置此图片为壁纸"
+
+#~ msgid "setup background"
+#~ msgstr "设为背景"
+
+#~ msgid "setup background show"
+#~ msgstr "将此图片设置为背景"
