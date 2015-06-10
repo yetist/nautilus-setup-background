@@ -1,0 +1,1 @@
+A nautilus plugin to setup an image file as wallpaper when browse.
